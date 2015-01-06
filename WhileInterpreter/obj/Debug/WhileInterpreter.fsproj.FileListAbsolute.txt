@@ -1,0 +1,28 @@
+C:\mrh\Kurser\02257-13\WhileInterpreter\bin\Debug\Factorial.while
+C:\mrh\Kurser\02257-13\WhileInterpreter\bin\Debug\WhileInterpreter.XML
+C:\mrh\Kurser\02257-13\WhileInterpreter\bin\Debug\WhileInterpreter.exe
+C:\mrh\Kurser\02257-13\WhileInterpreter\bin\Debug\WhileInterpreter.pdb
+C:\mrh\Kurser\02257-13\WhileInterpreter\obj\Debug\WhileInterpreter.exe
+C:\mrh\Kurser\02257-13\WhileInterpreter\obj\Debug\WhileInterpreter.pdb
+C:\mrh\Kurser\02257-13\WhileInterpreter\obj\Debug\WhileInterpreter.fsprojResolveAssemblyReference.cache
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\bin\Debug\Factorial.while
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\bin\Debug\WhileInterpreter.XML
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\bin\Debug\WhileInterpreter.exe
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\bin\Debug\WhileInterpreter.pdb
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\bin\Debug\FSharp.PowerPack.dll
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\bin\Debug\fslex.exe
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\bin\Debug\fsyacc.exe
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\bin\Debug\FSharp.PowerPack.pdb
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\bin\Debug\FSharp.PowerPack.xml
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\obj\Debug\WhileInterpreter.fsprojResolveAssemblyReference.cache
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\obj\Debug\WhileInterpreter.exe
+C:\Users\mire\Documents\MRH data\Kurser\02257-15\Project1\Handout\Test\WhileInterpreter\obj\Debug\WhileInterpreter.pdb
+C:\Users\Philip\Documents\Applied Functional Programming\WhileInterpreter\bin\Debug\Factorial.while
+C:\Users\Philip\Documents\Applied Functional Programming\WhileInterpreter\bin\Debug\WhileInterpreter.XML
+C:\Users\Philip\Documents\Applied Functional Programming\WhileInterpreter\bin\Debug\WhileInterpreter.exe
+C:\Users\Philip\Documents\Applied Functional Programming\WhileInterpreter\bin\Debug\WhileInterpreter.pdb
+C:\Users\Philip\Documents\Applied Functional Programming\WhileInterpreter\bin\Debug\FSharp.PowerPack.pdb
+C:\Users\Philip\Documents\Applied Functional Programming\WhileInterpreter\bin\Debug\FSharp.PowerPack.xml
+C:\Users\Philip\Documents\Applied Functional Programming\WhileInterpreter\obj\Debug\WhileInterpreter.fsprojResolveAssemblyReference.cache
+C:\Users\Philip\Documents\Applied Functional Programming\WhileInterpreter\obj\Debug\WhileInterpreter.exe
+C:\Users\Philip\Documents\Applied Functional Programming\WhileInterpreter\obj\Debug\WhileInterpreter.pdb
